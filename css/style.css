@@ -14,3 +14,8 @@
     background-position: 0px -100px;
     background-attachment: fixed;
 }
+
+hr {
+    width: 400px;
+    border: 2px solid black;
+}
