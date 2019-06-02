@@ -24,8 +24,17 @@ hr {
     border: 2px solid black;
 }
 
+.about {
+    min-height: 300px;
+}
+
 .portofolio {
     background-color: #F4F4F4;
+    min-height: 600px;
+}
+
+.contact {
+    min-height: 600px;
 }
 
 footer {
